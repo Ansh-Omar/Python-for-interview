@@ -1,3 +1,6 @@
+ '''Program 2
+ Write a Python program to do arithmetical operations addition and division'''
+
 # ARITHMETIC OPERATION
 
 a=int(input("Enter no. : "))
